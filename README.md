@@ -21,5 +21,6 @@
 * test-schema - содержит 3 схемы для тестирования
 
 Зоны ответственности
-* primitives.clj, primitives_test.clj - Стецкий Илья
+* base_func.clj, base_func_test.clj - Стецкий Илья
 * scheme-check.clj, scheme-check-test.clj - Ропперт Екатерина
+
