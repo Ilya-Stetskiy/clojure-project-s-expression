@@ -1,0 +1,6 @@
+(tag (nm :note)
+               (tag (nm :body) "Hi! Hello!")
+               (tag (nm :body) "Never Gonna Give You Up")
+               (tag (nm :heading) "Reminder")
+               (tag (nm :from) "Me")
+               (tag (nm :to) "You"))

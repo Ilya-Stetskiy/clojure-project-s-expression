@@ -1,0 +1,6 @@
+[tag-check :note
+   [sequence-check
+    [tag-check :to [string-check]]
+    [tag-check :from [string-check]]
+    [tag-check :heading [string-check]]
+    [tag-check :body [string-check]]]]

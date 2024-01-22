@@ -1,0 +1,8 @@
+[:html
+   [xmlsequence-check
+    [tag-check :body
+     [xmlsequence-check
+      [tag-check :div [string-check]]
+      [tag-check :div
+       [xmlsequence-check
+        [tag-check :span [string-check]]]]]]]]
